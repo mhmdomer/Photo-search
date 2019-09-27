@@ -1,16 +1,9 @@
 # photo search
 
-A new Flutter project.
+![Screenshot_20190927-114944](https://user-images.githubusercontent.com/39973541/65761015-556d3680-e11e-11e9-81c4-dde0997a5632.jpg)
 
-## Getting Started
+![Screenshot_20190927-115030](https://user-images.githubusercontent.com/39973541/65761010-54d4a000-e11e-11e9-89d4-4b7543706af9.jpg)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20190927-115049](https://user-images.githubusercontent.com/39973541/65761012-54d4a000-e11e-11e9-8b80-3806a731c6b4.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
